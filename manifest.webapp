@@ -1,0 +1,15 @@
+{
+  "name": "Learn Tamil",
+  "description": "Learn Tamil in easily manner",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/ahh.png"
+  },
+  "developer": {
+    "name": "Jagadeesan A S",
+        "url": ""
+  },
+  "default_locale": "en"
+}
+
+
